@@ -1,6 +1,6 @@
 # Learn Docker
 
-I wanted to learn Docker fundamentals in a concise, well-structured way, so I put together this interactive course and learned from it. It's built around a real project — a todo app with a database — so the concepts (containers, images, networking, persistence) stick because you actually use them, not just read about them.
+I wanted to feel comfortable in using Docker and know it's "know-how" fundamentals in a concise, well-structured way, so I put together this interactive course and learned from it. It's built around a real project — a todo app with a database — so the concepts (containers, images, networking, persistence) stick because you actually use them, not just read about them.
 
 ## What's inside
 
@@ -23,6 +23,8 @@ Plus deeper dives I added once I had the basics down: **image layers**, **contai
 ## Who it's for
 
 Anyone new to Docker who'd rather learn by building something real than by reading command references.
+
+If you want to study these lessons in an interactive easy-to-read manner, then i would suggest you following the below section:
 
 ## Browsing it locally
 
