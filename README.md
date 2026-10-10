@@ -1,6 +1,6 @@
 # Learn Docker
 
-An interactive, hands-on Docker course: you build a real todo app (app + database) while learning containers, images, networking, and persistence along the way.
+I wanted to learn Docker fundamentals in a concise, well-structured way, so I put together this interactive course and learned from it. It's built around a real project — a todo app with a database — so the concepts (containers, images, networking, persistence) stick because you actually use them, not just read about them.
 
 ## What's inside
 
@@ -10,7 +10,7 @@ An interactive, hands-on Docker course: you build a real todo app (app + databas
 | 2 | **Building Images** — package your own app |
 | 3 | **Running Applications** — networks, data, and multi-container apps |
 
-Plus deeper dives once you've got the basics: **image layers**, **container isolation**, **networking**, and **Compose orchestration** (`architecture/`).
+Plus deeper dives I added once I had the basics down: **image layers**, **container isolation**, **networking**, and **Compose orchestration** (`architecture/`).
 
 ## Structure
 
@@ -22,7 +22,7 @@ Plus deeper dives once you've got the basics: **image layers**, **container isol
 
 ## Who it's for
 
-Anyone new to Docker who wants to learn by building something real instead of just reading command references.
+Anyone new to Docker who'd rather learn by building something real than by reading command references.
 
 ## Browsing it locally
 
